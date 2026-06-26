@@ -212,10 +212,15 @@ Deep packet inspection project studying protocol-level communication for securit
 🔐 **Deloitte** — Cybersecurity Job Simulation Certification
 
 ☁️ **AWS** — Certified Developer (Infosys Springboard) + AWS Cloud Essentials (SkillBuilder)
+
 🌐 **CCNA Foundations** — Networking Basics & Cisco IOS Essentials (Coursera)
+
 🐍 **Cisco** — Python Essentials 1 & 2
+
 🛡️ **TryHackMe** — SOC1 Cybersecurity Course
+
 📊 **Infosys Springboard** — PySpark, Network Fundamentals & Cybersecurity
+
 🔍 **Google** — Foundations of Cybersecurity
 
 </td></tr>
