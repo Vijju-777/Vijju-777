@@ -204,9 +204,13 @@ Deep packet inspection project studying protocol-level communication for securit
 <tr><td>
 
 🏆 **Smart India Hackathon** — Advanced to Round 2 (2024 & 2025) among 200+ teams
+
 🚩 **MythX** — National-level Cybersecurity 24hr CTF, KIET Group of Institutions, UP
+
 🎓 **Google Student Ambassador 2026** — GID: 4830
+
 🔐 **Deloitte** — Cybersecurity Job Simulation Certification
+
 ☁️ **AWS** — Certified Developer (Infosys Springboard) + AWS Cloud Essentials (SkillBuilder)
 🌐 **CCNA Foundations** — Networking Basics & Cisco IOS Essentials (Coursera)
 🐍 **Cisco** — Python Essentials 1 & 2
